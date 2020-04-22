@@ -243,6 +243,11 @@ const companies = [
 		href: 'https://doxford.net',
 		logo: 'doxford.png'
 	}
+	{
+		name: 'Hirecodes',
+		href: 'https://www.hirecodes.com',
+		logo: 'logo.png'
+	}
 ];
 
 // Grid of companies using Preact
